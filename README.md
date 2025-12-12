@@ -24,18 +24,6 @@ Git & GitHub
 
 CSV/Excel Retail Transaction Dataset
 
-SalesTransaction/
-│
-├── clean_train_for_powerbi.csv        # Cleaned dataset for Power BI
-├── product_summary.csv                # Product performance summary
-├── salesperson_summary.csv            # Salesperson performance summary
-├── Sales Transaction Project.ipynb     # Python data cleaning & analysis notebook
-│
-├── Test.xlsx                          # Original test dataset
-├── Train.xlsx                         # Original training dataset
-│
-└── README.md
-
 🧪 Data Processing in Python
 
 The Jupyter Notebook performs:
